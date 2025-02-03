@@ -7,7 +7,7 @@ Web, Mobile App Developer and Designer
 I'm Mert, 17 years old, and I've been passionate about programming for quite some time. My fascination with computers and coding has allowed me to develop my skills in this field at a young age. Experiencing the excitement of bringing a project to life while learning my first programming languages deepened my enthusiasm for software development. In the world of software, I learn new things every day by contributing to open-source projects and gaining experience in various programming languages. Additionally, my interest in how technology can positively impact human life helps me sharpen my problem-solving skills. Despite my young age, I aspire to make a mark in the software world and contribute to communities. As I advance my skills in both web and mobile app development, pushing the boundaries of technology and creating innovative solutions is an exciting goal for me.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [Portfolio](http://mert.is-a.dev)
+* 🖥️  See my portfolio at [Portfolio](http://mert.lol)
 * ✉️  You can contact me at [mrtclk0541@gmail.com](mailto:mrtclk0541@gmail.com)
 
 <a href="https://www.github.com/DevJustMert" target="_blank" rel="noreferrer"><img
